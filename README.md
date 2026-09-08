@@ -11,22 +11,16 @@
 ### 🛠️ Teknolojiler ve Araçlar
 
 **Web & Frontend:** <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<br><br>
 
 **Backend & Veritabanı:** <br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,cs,py,firebase,mysql" />
+<br><br>
 
 **Mobil Geliştirme:** <br>
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+<br>
 
 ---
 
@@ -50,12 +44,12 @@
 
 ### 📊 GitHub İstatistikleri
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINI_YAZ&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samet-karaoz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samet-karaoz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 ### 📫 Bana Ulaşın
 📍 Düzce, Türkiye  
-📧 [sametkaraozo@gmail.com](mailto:sametkaraozo@gmail.com)  
-🔗 [LinkedIn Profilim](https://linkedin.com/in/LINKEDIN_KULLANICI_ADINI_YAZ)
+📧 [sametkaraozo@gmail.com](mailto:sametkaraozo@gmail.com)
