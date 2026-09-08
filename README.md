@@ -16,7 +16,7 @@
   <br><br>
   
   <b>Backend & Veritabanı:</b> <br>
-  <img src="https://skillicons.dev/icons?i=php,cs,py,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,cs,py,firebase,sql" />
   <br><br>
   
   <b>Mobil Geliştirme:</b> <br>
