@@ -7,7 +7,7 @@
 </p>
 
 ---
-<div style="align-item:center">
+
 ### 🛠️ Teknolojiler ve Araçlar
 
 **Web & Frontend:** <br>
@@ -21,7 +21,7 @@
 **Mobil Geliştirme:** <br>
 <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 <br>
-</div>
+
 ---
 
 ### 🚀 Öne Çıkan Projelerim
