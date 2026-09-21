@@ -28,10 +28,8 @@
 
 <h3 align="center">🚀 Öne Çıkan Projelerim</h3>
 
-*   **📱 Görev Yönetimi Mobil Uygulaması:** React Native, Expo ve Firebase kullanılarak geliştirilmiş, kullanıcı yetkilendirmesi içeren uçtan uca CRUD özellikli mobil uygulama.
-*   **🍽️ Dinamik QR Menü Sistemi:** PHP ve SQL altyapısıyla geliştirilmiş, işletmeler için veritabanı destekli, QR kod ile erişilebilen dijital menü altyapısı.
-*   **🤖 Yapay Zeka Destekli Canlı Destek Portalı:** Kullanıcı sorunlarını sohbet ekranı üzerinden yapay zeka yardımıyla çözümleyen asistan entegrasyonu.
-*   **🚗 Motor Galerisi Web Sitesi:** HTML, CSS, JavaScript ve Bootstrap ile tasarlanmış, modern ve mobil cihazlarla tam uyumlu (responsive) galeri arayüzü.
+*   **🤖 [Asphera Website](https://github.com/samet-karaoz/asphera-website):** Asphera Discord botunun resmi tanıtım sitesi. React, Tailwind CSS ve Framer Motion ile geliştirilmiş, çoklu dil destekli, canlı bot istatistiklerini gösteren modern web arayüzü. → [Canlı Demo](https://asphera-website.vercel.app/)
+*   **🚗 [Motor Galerisi](https://github.com/samet-karaoz/motor-galerisi):** HTML, CSS, JavaScript ve Bootstrap ile tasarlanmış, modern ve mobil cihazlarla tam uyumlu (responsive) motor galerisi web arayüzü.
 
 ---
 
